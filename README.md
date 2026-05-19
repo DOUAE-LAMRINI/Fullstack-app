@@ -146,5 +146,5 @@ npm start
 ---
 
 <p align="center">
-  Réalisé avec 🌸 dans le cadre du TP 8 · ENIAD 2025/2026
+  Dans le cadre du TP 8 · ENIAD 2025/2026
 </p>
